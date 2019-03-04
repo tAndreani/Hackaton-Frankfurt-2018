@@ -1,4 +1,4 @@
-# Hackaton Frankfurt 2018, Artificial Intelligence Lab Frankfurt School of Management
+# Hackaton Frankfurt 2018, Artificial Intelligence Lab Frankfurt School of Management and Deloitte
 Data Science competition to address the question:  In what year will e-cars become mainstream?  
 
 
