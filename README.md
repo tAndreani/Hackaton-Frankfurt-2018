@@ -1,6 +1,6 @@
 # Hackaton Frankfurt 2018, Artificial Intelligence Lab Frankfurt School of Finance and Management together with Deloitte
 Data Science competition to address the question:  In what year will e-cars become mainstream?  
-
+Group: Carlos, Tommaso, Ananya and Akanksha
 
 ## Use of machine-learning techniques  
 1) Polynomial  
